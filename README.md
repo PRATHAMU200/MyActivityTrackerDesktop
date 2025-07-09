@@ -4,6 +4,10 @@
 
 A powerful and intuitive desktop application built with Electron.js, React, and Tailwind CSS to help you track your work, gaming, and other PC activities. This offline-first application provides detailed insights into your time usage, with robust data persistence, and easy import/export capabilities.
 
+## 🧪Demo
+
+<img src="img/3.png" alt="Description of image" width="350"><img src="img/4.png" alt="Description of image" width="350"><img src="img/2.png" alt="Description of image" width="350"><img src="img/5.png" alt="Description of image" width="350">
+
 ## ✨ Features
 
 - **Offline-First Data Storage:** All your activity data is stored locally on your machine using `localStorage`, ensuring privacy and accessibility without an internet connection.
